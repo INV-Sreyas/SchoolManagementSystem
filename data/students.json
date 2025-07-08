@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Sreyas V Nair",
+        "registration_number": "REG-2024-8547",
+        "age": 22,
+        "email": "nandunair2003@gmail.com",
+        "phone": "8547525719",
+        "course": "B.Tech"
+    },
+    {
+        "name": "vipin",
+        "registration_number": "REG-2025-8695",
+        "age": 24,
+        "email": "vipin@gmail.com",
+        "phone": "6589742314",
+        "course": "MCA"
+    }
+]
